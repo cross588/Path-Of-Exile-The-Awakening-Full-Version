@@ -268,3 +268,6 @@ This repository serves as the official landing page for Path of Exile: The Awake
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Path of Exile: The Awakening today!**
+
+---
+**Last updated:** 2026-09-09 16:25:26 UTC
