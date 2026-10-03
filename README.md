@@ -270,4 +270,4 @@ This repository serves as the official landing page for Path of Exile: The Awake
 **Get the most recent version of Path of Exile: The Awakening today!**
 
 ---
-**Last updated:** 2026-10-03 04:59:00 UTC
+**Last updated:** 2026-10-03 10:20:32 UTC
